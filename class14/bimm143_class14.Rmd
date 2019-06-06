@@ -2,7 +2,9 @@
 title: "BIMM 143 Class 14"
 author: "Fangchao He"
 date: "5/16/2019"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
