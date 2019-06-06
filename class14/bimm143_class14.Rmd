@@ -36,7 +36,7 @@ head(counts[, control$id])
 ```
 
 ```{r}
-rowSums(counts[, control$id]) / length(control$id)
+head(rowSums(counts[, control$id]) / length(control$id))
 ```
 
 
@@ -107,7 +107,7 @@ head(anno)
 
 ```{r}
 mycounts.anno <- merge(mycounts, anno, by.x = "row.names", by.y = "ensgene")
-mycounts.anno
+head(mycounts.anno)
 ```
 
 
