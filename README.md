@@ -10,7 +10,7 @@ This is my classwork from [BIMM 143 Spring 2019](https://bioboot.github.io/bimm1
 - [Class 08: Introduction to Machine Learning for Bioinformatics](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class08/blob/master/bimm143_class08_RMD.html)
 - [Class 09: Unsupervised Learning Mini Project](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class09/blob/master/bimm143_class09.html)
 - Class 10: Find a Gene Project
-- Class 11: Structural Bioinformatics
+- [Class 11: Structural Bioinformatics](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class11/blob/master/bimm143_class11.html)
 - [Class 12: Bioinformatics in Drug Discovery and Design](http://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class12/blob/master/bimm143_class12.html)
 - [Class 13: Genome informatics and high throughput sequencing](http://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class13/blob/master/bimm143_class13.html)
 - [Class 14: Transcriptomics and the analysis of RNA-Seq data](https://github.com/FredHBioE/BIMM-143-Spring-2019-/blob/master/class14/bimm143_class14.md)
