@@ -1,8 +1,12 @@
 # BIMM 143
 This is my classwork from [BIMM 143 Spring 2019](https://bioboot.github.io/bimm143_S19/) at UCSD.
+- Class 01: Introduction to Bioinformatics
+- Class 02: Sequence Alignment Fundamentals
+- Class 03: Advanced Sequence Alignment and Database Searching
+- Class 04: Bioinformatics Data Analysis with R
 - [Class 05: R basics, data structures, and data input]
-- [Class 06: something else]
-- [Class 07: R Functions]
+- [Class 06: R Functions]
+- [Class 07: Bioinformatics R Packages from CRAN and BioConductor]
 - [Class 08: Introduction to Machine Learning for Bioinformatics]
 - [Class 09: Unsupervised Learning Mini Project]
 - [Class 10: Find a Gene Project]
