@@ -13,7 +13,7 @@ This is my classwork from [BIMM 143 Spring 2019](https://bioboot.github.io/bimm1
 - [Class 11: Structural Bioinformatics](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class11/blob/master/bimm143_class11.html)
 - [Class 12: Bioinformatics in Drug Discovery and Design](http://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class12/blob/master/bimm143_class12.html)
 - [Class 13: Genome informatics and high throughput sequencing](http://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class13/blob/master/bimm143_class13.html)
-- [Class 14: Transcriptomics and the analysis of RNA-Seq data](https://github.com/FredHBioE/BIMM-143-Spring-2019-/blob/master/class14/bimm143_class14.md)
+- [Class 14: Transcriptomics and the analysis of RNA-Seq data](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class14/blob/master/bimm143_class14.html)
 - [Class 15: Genome Annotation](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class15/blob/master/bimm_143_class_15.html)
 - Class 16: Essential Unix for Bioinformatics
 - [Class 17: Biological Network Analysis](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class17/blob/master/bimm143_class17_markdown.html)
