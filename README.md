@@ -7,7 +7,7 @@ This is my classwork from [BIMM 143 Spring 2019](https://bioboot.github.io/bimm1
 - [Class 05: R basics, data structures, and data input]
 - [Class 06: R Functions](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class06/blob/master/bimm143_class06.html)
 - [Class 07: Bioinformatics R Packages from CRAN and BioConductor](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class07/blob/master/bimm143_class07_rmd.html)
-- [Class 08: Introduction to Machine Learning for Bioinformatics]
+- [Class 08: Introduction to Machine Learning for Bioinformatics](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class08/blob/master/bimm143_class08_RMD.html)
 - [Class 09: Unsupervised Learning Mini Project]
 - [Class 10: Find a Gene Project]
 - [Class 11: Structural Bioinformatics]
