@@ -18,3 +18,5 @@ This is my classwork from [BIMM 143 Spring 2019](https://bioboot.github.io/bimm1
 - Class 16: Essential Unix for Bioinformatics
 - [Class 17: Biological Network Analysis](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class17/blob/master/bimm143_class17_markdown.html)
 - [Class 18: Cancer Genomics](https://htmlpreview.github.io/?https://github.com/FredHBioE/bimm143_class18/blob/master/bimm143_class18_RMD.html)
+
+A special thanks to Professor [Barry J. Grant](https://biology.ucsd.edu/research/faculty/bjgrant), our TAs Yan Liang and Nhien Nguyen for their help over the whole quarter!
